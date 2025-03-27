@@ -22,6 +22,8 @@ namespace SimonSystem
             Stock stockForm = new Stock();
 
             stockForm.Show();
+
+            
         }
     }
 }
